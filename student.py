@@ -19,6 +19,7 @@ def show_subject_marks():
     print("Subject 1: 85")
     print("Subject 2: 90")
     print("Subject 3: 95\n")
+    
 
 def calculate_average():
     return (85+90+95) /3
